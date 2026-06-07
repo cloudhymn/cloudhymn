@@ -9,7 +9,7 @@
 
 
 
-[𝚜𝚝𝚛𝚊𝚠𝚙𝚊𝚐𝚎](https://dainsdreams.straw.page) [𝚊𝚝𝚊𝚋𝚘𝚘𝚔](https://withn.atabook.org/)  
+[𝚜𝚝𝚛𝚊𝚠𝚙𝚊𝚐𝚎](https://idainly.straw.page) [𝚊𝚝𝚊𝚋𝚘𝚘𝚔](https://withn.atabook.org/)  
 
 ![Badge](https://img.shields.io/badge/can%20we%20always%20be%20this%20close%3F-33,550,336-e8b3e6)
 ![image alt](https://github.com/withns/withns/blob/readme/scary%20face.jpg?raw=true)
