@@ -7,7 +7,7 @@
 
 ୧‿̩͙ ˖︵ ꕀ⠀ ♱⠀ ꕀ ︵˖ ‿̩͙୨
 
-
+[strawpage](https://idainlydotcom.straw.page) [atabook](https://ordainedbythestars.atabook.org/)
 
 
 ![Badge](https://img.shields.io/badge/can%20we%20always%20be%20this%20close%3F-33,550,336-e8b3e6)
