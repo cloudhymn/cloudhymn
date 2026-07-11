@@ -1,1 +1,2 @@
-<img width="2048" height="1536" alt="Untitled2_20260711003408" src="https://github.com/user-attachments/assets/9d34e73f-6f44-4169-9f0f-52601b01c453" />
+<img width="2048" height="1536" alt="Untitled4_20260711120106" src="https://github.com/user-attachments/assets/abd3a527-d320-4431-bb88-8b131fa01150" />
+yea um goodluck figuring out who the hell are the characters in there
