@@ -1,2 +1,2 @@
-<img width="2048" height="1536" alt="ASASASASASA" src="https://github.com/user-attachments/assets/230854ab-ec38-4ae6-ac95-2c1aa2ff592a" />
-yea um goodluck figuring out who the hell are the characters in there
+<img width="640" height="360" alt="6160c52bfe0299f8d6f1c2a93e554f3f" src="https://github.com/user-attachments/assets/e1f05d6d-bc53-4aa0-8b5d-300f3a4c1d7f" />
+
