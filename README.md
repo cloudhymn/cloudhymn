@@ -11,3 +11,4 @@
 <p align="center">  (𝗍𝗁𝗂𝗌 𝗅𝗈𝗈𝗄𝗌 𝖺 𝗅𝗂𝗅 𝖻𝖾𝗍𝗍𝖾𝗋 𝗈𝗇 𝗆𝗈𝖻𝗂𝗅𝖾 𝖺𝗇𝖽 𝗂𝗍 𝗉𝗆𝗈)
     <p align="center">═════════════════════════════════════════════════
 <p align="center"><img width="900" height="60" alt="tumblr_6da60a03f595674fed14cb744867a3db_595cb03d_640" src="https://github.com/user-attachments/assets/e4a5a793-3d0b-41d1-b8c8-974a03d23ef1" />
+$${\color{#58A6FF}This \space uses \space a \space hex \space color}$$
