@@ -7,7 +7,7 @@
   <p align="center"><img width="300" height="40" alt="tumblr_f9227ec417bd6bd9b0a4c32041c2b5c5_53cbc9f2_400" src="https://github.com/user-attachments/assets/14480de9-c7de-4e8d-91ed-e1af404f9b42" />
   <p align="center"> $${\color{#02d931}𝐲𝐨𝐮 \space 𝐜𝐚𝐧 \space 𝐜𝐚𝐥𝐥 \space 𝐦𝐞 \space 𝐝𝐚𝐢𝐧 \space 𝐨𝐫 \space 𝐰𝐢𝐭𝐡𝐧 \space 𝐨𝐫 \space 𝐫𝐨𝐡𝐢𝐫𝐫𝐢𝐦 \space 𝐞𝐡𝐞  }$$ 
 <p align="center">   $${\color{#02d931}𝐡𝐞 \space / \space 𝐡𝐢𝐦, \space  𝐞𝐢𝐠𝐡𝐭𝐞𝐞𝐧}$$ 
-<p align="center">  $${\color{#02d931}𝐡𝐞 𝐔𝐓𝐂 \space +8 \space, 𝐬𝐨𝐮𝐭𝐡𝐞𝐚𝐬𝐭 \space 𝐚𝐬𝐢𝐚}$$ 
+<p align="center">  $${\color{#02d931}𝐔𝐓𝐂 \space +8 \space, 𝐬𝐨𝐮𝐭𝐡𝐞𝐚𝐬𝐭 \space 𝐚𝐬𝐢𝐚}$$ 
 <p align="center">  (𝘁𝗵𝗶𝘀 𝗹𝗼𝗼𝗸𝘀 𝘄𝗲𝗶𝗿𝗱 𝗼𝗻 𝗺𝗼𝗯𝗶𝗹𝗲 𝗴𝗶𝘁𝗵𝘂𝗯 𝗮𝗻𝗱 𝗶𝘁 𝗽𝗺𝗼)
     <p align="center">═════════════════════════════════════════════════
 <p align="center"><img width="900" height="60" alt="tumblr_6da60a03f595674fed14cb744867a3db_595cb03d_640" src="https://github.com/user-attachments/assets/e4a5a793-3d0b-41d1-b8c8-974a03d23ef1" />
