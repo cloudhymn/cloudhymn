@@ -8,7 +8,7 @@
   <p align="center"> $${\color{#02d931}𝐲𝐨𝐮 \space 𝐜𝐚𝐧 \space 𝐜𝐚𝐥𝐥 \space 𝐦𝐞 \space 𝐝𝐚𝐢𝐧 \space 𝐨𝐫 \space 𝐰𝐢𝐭𝐡𝐧 \space 𝐨𝐫 \space 𝐫𝐨𝐡𝐢𝐫𝐫𝐢𝐦 \space 𝐞𝐡𝐞  }$$ 
 <p align="center">   $${\color{#02d931}𝐡𝐞 \space / \space 𝐡𝐢𝐦, \space  𝐞𝐢𝐠𝐡𝐭𝐞𝐞𝐧}$$ 
 <p align="center">  $${\color{#02d931}𝐡𝐞 𝐔𝐓𝐂 \space +8 \space, 𝐬𝐨𝐮𝐭𝐡𝐞𝐚𝐬𝐭 \space 𝐚𝐬𝐢𝐚}$$ 
-<p align="center">  (𝗍𝗁𝗂𝗌 𝗅𝗈𝗈𝗄𝗌 𝖺 𝗅𝗂𝗅 𝖻𝖾𝗍𝗍𝖾𝗋 𝗈𝗇 𝗆𝗈𝖻𝗂𝗅𝖾 𝖺𝗇𝖽 𝗂𝗍 𝗉𝗆𝗈)
+<p align="center">  (𝗍𝗁𝗂𝗌 𝗅𝗈𝗈𝗄𝗌 weird on mobile github 𝖺𝗇𝖽 𝗂𝗍 𝗉𝗆𝗈)
     <p align="center">═════════════════════════════════════════════════
 <p align="center"><img width="900" height="60" alt="tumblr_6da60a03f595674fed14cb744867a3db_595cb03d_640" src="https://github.com/user-attachments/assets/e4a5a793-3d0b-41d1-b8c8-974a03d23ef1" />
 <p align="center"> <img width="600" height="600" alt="ertgrtr" src="https://github.com/user-attachments/assets/28bd0cf6-8ae4-446d-b377-0329f6b3ba3e" />
