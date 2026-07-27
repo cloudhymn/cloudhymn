@@ -13,4 +13,8 @@
 <p align="center"> <img width="600" height="600" alt="ertgrtr" src="https://github.com/user-attachments/assets/28bd0cf6-8ae4-446d-b377-0329f6b3ba3e" />
 
 
-<p align="center">[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lqgiddaw2hepxph02dmcmzbc7&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=19d600)](https://spotify-github-profile.kittinanx.com/api/view?uid=lqgiddaw2hepxph02dmcmzbc7&redirect=true)
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=lqgiddaw2hepxph02dmcmzbc7&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lqgiddaw2hepxph02dmcmzbc7&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=19d600">
+  </a>
+</p>
