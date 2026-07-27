@@ -6,7 +6,7 @@
 <p align="center"><img width="1000" height="64" alt="tumblr_22dc9cf2863e32c8d25855d5a46487c9_3b832765_1280" src="https://github.com/user-attachments/assets/28f63886-1d3e-453b-a901-2876881589d6" />
 <img width="1500" height="500" alt="GIT GUD" src="https://github.com/user-attachments/assets/9f693f95-87a5-4cda-99cd-63a35f995bd3" />
 
-<p align="center"><img width="1000" height="50" alt="tumblr_4d8b652f0d2f6fced3f1fa4fce648207_c1769fdd_500" src="https://github.com/user-attachments/assets/bdec26b5-b033-403a-9753-82ea6c441eb7" />
+<p align="center"><img width="600" alt="tumblr_cf4dd9e809fb727b0620f907ea327389_c874fb3f_2048" src="https://github.com/user-attachments/assets/fab7b046-3ca1-44f7-bacb-6802cd7fca9f" />
   <p align="center"> $${\color{#02d931}𝐲𝐨𝐮 \space 𝐜𝐚𝐧 \space 𝐜𝐚𝐥𝐥 \space 𝐦𝐞 \space 𝐝𝐚𝐢𝐧 \space 𝐨𝐫 \space 𝐰𝐢𝐭𝐡𝐧 \space 𝐨𝐫 \space 𝐫𝐨𝐡𝐢𝐫𝐫𝐢𝐦 \space 𝐞𝐡𝐞  }$$ 
 <p align="center">   $${\color{#02d931}𝐡𝐞 \space / \space 𝐡𝐢𝐦, \space  𝐞𝐢𝐠𝐡𝐭𝐞𝐞𝐧}$$ 
 <p align="center">  $${\color{#02d931}𝐔𝐓𝐂 \space +8 \space, 𝐬𝐨𝐮𝐭𝐡𝐞𝐚𝐬𝐭 \space 𝐚𝐬𝐢𝐚}$$ 
