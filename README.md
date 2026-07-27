@@ -11,9 +11,8 @@
 <p align="center">  (𝘁𝗵𝗶𝘀 𝗹𝗼𝗼𝗸𝘀 𝘄𝗲𝗶𝗿𝗱 𝗼𝗻 𝗺𝗼𝗯𝗶𝗹𝗲 𝗴𝗶𝘁𝗵𝘂𝗯 𝗮𝗻𝗱 𝗶𝘁 𝗽𝗺𝗼)
     <p align="center">═════════════════════════════════════════════════
 
-
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lqgiddaw2hepxph02dmcmzbc7&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=19d600&bar_color_cover=false&mode=light">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lqgiddaw2hepxph02dmcmzbc7&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=19d600&bar_color_cover=true">
   </a>
 </p>
