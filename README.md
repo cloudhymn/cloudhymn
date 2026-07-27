@@ -12,10 +12,12 @@
 <p align="center">   $${\color{#02d931}𝐡𝐞 \space / \space 𝐡𝐢𝐦, \space  𝐞𝐢𝐠𝐡𝐭𝐞𝐞𝐧}$$ 
 <p align="center">  $${\color{#02d931}𝐔𝐓𝐂 \space +8 \space, 𝐬𝐨𝐮𝐭𝐡𝐞𝐚𝐬𝐭 \space 𝐚𝐬𝐢𝐚}$$ 
 <p align="center">  (𝘁𝗵𝗶𝘀 𝗹𝗼𝗼𝗸𝘀 𝘄𝗲𝗶𝗿𝗱 𝗼𝗻 𝗺𝗼𝗯𝗶𝗹𝗲 𝗴𝗶𝘁𝗵𝘂𝗯 𝗮𝗻𝗱 𝗶𝘁 𝗽𝗺𝗼)
-    <p align="center">═════════════════════════════════════════════════
+<p align="center"> <img width="2048" height="226" alt="tumblr_d565bf270572e70de48bd09ca4d5a577_4acd4828_2048" src="https://github.com/user-attachments/assets/f0f31255-7176-4cc6-83cf-1418b696d867" />
+
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lqgiddaw2hepxph02dmcmzbc7&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=19d600&bar_color_cover=false&mode=dark">
   </a>
 </p>
+<p align="center"> <img width="600" alt="ertgrtr" src="https://github.com/user-attachments/assets/28bd0cf6-8ae4-446d-b377-0329f6b3ba3e" />
