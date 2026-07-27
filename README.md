@@ -10,7 +10,6 @@
 <p align="center">  $${\color{#02d931}𝐔𝐓𝐂 \space +8 \space, 𝐬𝐨𝐮𝐭𝐡𝐞𝐚𝐬𝐭 \space 𝐚𝐬𝐢𝐚}$$ 
 <p align="center">  (𝘁𝗵𝗶𝘀 𝗹𝗼𝗼𝗸𝘀 𝘄𝗲𝗶𝗿𝗱 𝗼𝗻 𝗺𝗼𝗯𝗶𝗹𝗲 𝗴𝗶𝘁𝗵𝘂𝗯 𝗮𝗻𝗱 𝗶𝘁 𝗽𝗺𝗼)
     <p align="center">═════════════════════════════════════════════════
-<p align="center"> <img width="600" height="600" alt="ertgrtr" src="https://github.com/user-attachments/assets/28bd0cf6-8ae4-446d-b377-0329f6b3ba3e" />
 
 
 <p align="center">
