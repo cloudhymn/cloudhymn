@@ -7,7 +7,7 @@
 <img width="1500" height="500" alt="GIT GUD" src="https://github.com/user-attachments/assets/9f693f95-87a5-4cda-99cd-63a35f995bd3" />
 
 
-<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fcloudhymn&label=ftbaskra&icon=github&color=%23198754&message=&style=plastic&tz=UTC">
+
   <p align="center"> $${\color{#02d931}𝐲𝐨𝐮 \space 𝐜𝐚𝐧 \space 𝐜𝐚𝐥𝐥 \space 𝐦𝐞 \space 𝐝𝐚𝐢𝐧 \space 𝐨𝐫 \space 𝐰𝐢𝐭𝐡𝐧 \space 𝐨𝐫 \space 𝐫𝐨𝐡𝐢𝐫𝐫𝐢𝐦 \space 𝐞𝐡𝐞  }$$ 
 <p align="center">   $${\color{#02d931}𝐡𝐞 \space / \space 𝐡𝐢𝐦, \space  𝐞𝐢𝐠𝐡𝐭𝐞𝐞𝐧}$$ 
 <p align="center">  $${\color{#02d931}𝐔𝐓𝐂 \space +8 \space, 𝐬𝐨𝐮𝐭𝐡𝐞𝐚𝐬𝐭 \space 𝐚𝐬𝐢𝐚}$$ 
