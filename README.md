@@ -15,6 +15,6 @@
 
 
 
-[![](https://icarlyy.straw.page/)
 
-[![]<img width="154" alt="image-removebg-preview (10)" src="https://github.com/user-attachments/assets/757b67a4-1299-4838-8d19-3ce3f94cea37" />){200px:200px}](https://x.com/yunno10/status/2082099538438041627)
+
+[![]<img width="154" alt="image-removebg-preview (10)" src="https://github.com/user-attachments/assets/757b67a4-1299-4838-8d19-3ce3f94cea37" />){200px:200px}]([https://icarlyy.straw.page/])
