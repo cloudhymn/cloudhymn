@@ -7,13 +7,13 @@
 
 <p align="right"><img width="90" alt="tumblr_ea19d9fad2807242cf836e32bc484e99_9abd739f_75" src="https://github.com/user-attachments/assets/68ea39ef-7d63-49fe-8c59-f6ea6abde88e" /><img width="200" alt="tumblr_c8c48a7e08d8521783cc887a1bbdcf45_95033d27_2048" src="https://github.com/user-attachments/assets/ab757d6f-cc9e-496b-91fc-186c821e9763" /> <img width="450" alt="image-removebg-preview (13)" src="https://github.com/user-attachments/assets/01cd8a04-2d9e-4cbc-b413-d39aa25c2ca7" /> <img width="90" alt="tumblr_ea19d9fad2807242cf836e32bc484e99_9abd739f_75" src="https://github.com/user-attachments/assets/68ea39ef-7d63-49fe-8c59-f6ea6abde88e" />
 
-
-<p align="center"><img width="450"  alt="tumblr_0fa1ed35e0c930e51b3c7a9ad31598eb_efc90208_500" src="https://github.com/user-attachments/assets/3e0fe1d8-951c-4143-9b80-6146a7f89d3d" />
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lqgiddaw2hepxph02dmcmzbc7&cover_image=false&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=fff024&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lqgiddaw2hepxph02dmcmzbc7&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=fff024&bar_color_cover=true">
   </a>
 </p>
+<p align="center"><img width="450"  alt="tumblr_0fa1ed35e0c930e51b3c7a9ad31598eb_efc90208_500" src="https://github.com/user-attachments/assets/3e0fe1d8-951c-4143-9b80-6146a7f89d3d" />
+
 <p align="center"><img width="1727" alt="image-removebg-preview (15)" src="https://github.com/user-attachments/assets/212eac21-aab4-4c4d-ba5e-91239286c76a" />
 
 
