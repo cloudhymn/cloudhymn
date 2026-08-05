@@ -12,7 +12,7 @@
 <p align="center"><img width="1727" alt="image-removebg-preview (15)" src="https://github.com/user-attachments/assets/212eac21-aab4-4c4d-ba5e-91239286c76a" />
 
 <a href="[https://example.com](https://icarlyy.straw.page/)">
- <img src=<img width="712" alt="image-removebg-preview (9) src="https://github.com/user-attachments/assets/c9cc6afa-4ac3-49a9-98c3-e89de07cc456" />" alt="hi">
+ <img src=<img width="712" alt="image-removebg-preview (9)>
 </a>
 
 
