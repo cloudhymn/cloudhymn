@@ -15,5 +15,6 @@
 
 
 
-[![strawpage #1]<img width="712" alt="image-removebg-preview (9)" src="https://github.com/user-attachments/assets/c0392417-c9b9-455d-823b-025d7f22a88a" />{200px:200px}](https://x.com/yunno10/status/2082099538438041627)
+[![]<img width="154" alt="image-removebg-preview (10)" src="https://github.com/user-attachments/assets/757b67a4-1299-4838-8d19-3ce3f94cea37" />([https://x.com/yunno10/status/2082099538438041627](https://icarlyy.straw.page/))
+
 
