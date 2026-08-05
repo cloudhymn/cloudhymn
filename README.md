@@ -12,6 +12,6 @@
 <p align="center"><img width="1727" alt="image-removebg-preview (15)" src="https://github.com/user-attachments/assets/212eac21-aab4-4c4d-ba5e-91239286c76a" />
 
 
-[![Alt Text](<img width="154" alt="image-removebg-preview (10)" src="https://github.com/user-attachments/assets/470f90c0-4ec3-4081-9c78-b4873e5e42d6" />)]([(https://icarlyy.straw.page/)])
+[![](<img width="154" alt="image-removebg-preview (10)" src="https://github.com/user-attachments/assets/470f90c0-4ec3-4081-9c78-b4873e5e42d6" />)]([(https://icarlyy.straw.page/)])
 
 
