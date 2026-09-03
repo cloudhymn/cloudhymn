@@ -8,3 +8,4 @@
   </a>
 </p>
 
+npx gradient-figlet --from "#42047e" --to "#07f49e" -l
