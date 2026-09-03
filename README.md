@@ -8,3 +8,6 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=42047e&text=YOUR%20TEXT&fontSize=70&desc=&customColorList=0&customColorList=100&color=gradient&customColorList=42047e,07f49e" alt="Gradient Text" />
+</p>
