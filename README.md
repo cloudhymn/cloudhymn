@@ -8,11 +8,4 @@
   </a>
 </p>
 
-h1 {
-  font-family: 'Poppins', sans-serif;
-  font-size: 100px;
-  background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
-  -webkit-background-clip: text;
-  color: transparent;
-}
 
