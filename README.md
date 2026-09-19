@@ -10,4 +10,4 @@
   </a>
 </p>
 
-<img src="https://adriansblinkiecollection.neocities.org/z13.gif" />
+<center><img src="https://adriansblinkiecollection.neocities.org/z13.gif" /></center>
