@@ -46,5 +46,5 @@
   <img src="https://decohoard.carrd.co/assets/images/gallery99/b09ecf67.gif?v=e0827b7e">
   <img src="https://decohoard.carrd.co/assets/images/gallery99/53adf20d.gif?v=e0827b7e">
   <img src="https://decohoard.carrd.co/assets/images/gallery09/895e0edf.png?v=e0827b7e">
-
+  <img src="https://decohoard.carrd.co/assets/images/gallery45/77705103.gif?v=e0827b7e">
 </div>
