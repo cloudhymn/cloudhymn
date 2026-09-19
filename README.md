@@ -25,8 +25,18 @@
   <img src="https://orig00.deviantart.net/15dd/f/2018/191/f/b/discord_stamp_by_nathsplays_by_dragoi98-dcgtzs7.png">
   <img src="https://orig00.deviantart.net/2330/f/2018/227/4/8/rainbow_sherbet_stamp_by_cr0wdaddi-dck7riw.png">
   <img src="https://64.media.tumblr.com/e1c52120465b8b4fba1ccadc3626c38d/tumblr_pddjjma6Oz1xy0eh3o2_100.gif">
-  <img src="https://supplies.ju.mp/assets/images/gallery02/32b6bc65.gif?v=2e2c9a9d">
-  <img src="https://supplies.ju.mp/assets/images/gallery02/32b6bc65.gif?v=2e2c9a9d">
-  <img src="https://supplies.ju.mp/assets/images/gallery02/32b6bc65.gif?v=2e2c9a9d">
-  <img src="https://supplies.ju.mp/assets/images/gallery02/32b6bc65.gif?v=2e2c9a9d">
+  <img src="https://64.media.tumblr.com/ab70cdecf00da11d149711a4d14a6c18/tumblr_pe6xjbYQXO1xy0eh3o3_100.gif">
+  <img src="https://64.media.tumblr.com/b0d056824c90a0c8155b4e8bdcf6e2a4/tumblr_pe2uag3C621xsk4lxo4_100.gif">
+  <img src="https://64.media.tumblr.com/9264cc8077e17bca881242a5aba78f83/tumblr_pgm2miL77f1xzybrpo6_100.png">
+  <img src="https://64.media.tumblr.com/c1c0152c3cdbc9154e5755b1fc59a0f1/tumblr_inline_pe6lz7C7ur1v11djx_540.png">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2bf80ad-7e75-4d9d-b83e-0dd450324060/ddbi3ta-c91928a2-2271-4ca5-a23c-d79f4d4c14be.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyYmY4MGFkLTdlNzUtNGQ5ZC1iODNlLTBkZDQ1MDMyNDA2MFwvZGRiaTN0YS1jOTE5MjhhMi0yMjcxLTRjYTUtYTIzYy1kNzlmNGQ0YzE0YmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.W-EnfWJ22dRLxjFOimj2syZEJdPphFYPQouDxn6TLPg">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/709dc3e7-8cf5-49d3-826b-145bbff9cfd7/dd6ek7e-ee8e146a-6c50-48e7-9ad0-c8b11585ec64.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcwOWRjM2U3LThjZjUtNDlkMy04MjZiLTE0NWJiZmY5Y2ZkN1wvZGQ2ZWs3ZS1lZThlMTQ2YS02YzUwLTQ4ZTctOWFkMC1jOGIxMTU4NWVjNjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FdjXwweVCHoEeVh93YGPTnRlzc-jkB8XD74GAb-AbFI">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25e9a41d-5360-4e21-8e4f-f5a6e8dac4a2/dd5pdx8-5bf96774-7985-4881-8568-3897a0a9ab55.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1ZTlhNDFkLTUzNjAtNGUyMS04ZTRmLWY1YTZlOGRhYzRhMlwvZGQ1cGR4OC01YmY5Njc3NC03OTg1LTQ4ODEtODU2OC0zODk3YTBhOWFiNTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.N5fEYp29Xt_bSPHJQUr1OOmOGmZiFIw10HNlW-j8D-w">
+  <img src="https://y2k.neocities.org/stamps2/stars_stamp_by_vcrbit-dbzdxlc.png">
+  <img src="https://y2k.neocities.org/stamps/tumblr_inline_pe6m1dhbDl1v11djx_1280.png">
+  <img src="https://y2k.neocities.org/stamps/tumblr_pdu1u6f4Fy1wpplaao4_100.png">
+  <img src="https://allyratworld.com/stamps/pinkds.gif">
+  <img src="https://allyratworld.com/stamps/syoij7.png">
+  <img src="https://allyratworld.com/stamps/dcwpo1c-6357aedc-79c7-4839-8680-4d1a511ba624.gif">
+  
 </div>
