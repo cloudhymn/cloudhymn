@@ -45,12 +45,6 @@
   <img src="https://decohoard.carrd.co/assets/images/gallery28/b5e5a46f.gif?v=e0827b7e">
   <img src="https://decohoard.carrd.co/assets/images/gallery99/b09ecf67.gif?v=e0827b7e">
   <img src="https://decohoard.carrd.co/assets/images/gallery99/53adf20d.gif?v=e0827b7e">
-  <img src="https://file.garden/aonlGPuitQnMaHeb/ezgif.com-add-image.gif">
   <img src="https://decohoard.carrd.co/assets/images/gallery09/895e0edf.png?v=e0827b7e">
-  <img src="https://decohoard.carrd.co/assets/images/gallery09/895e0edf.png?v=e0827b7e">
-  <img src="https://decohoard.carrd.co/assets/images/gallery09/895e0edf.png?v=e0827b7e">
-  <img src="https://decohoard.carrd.co/assets/images/gallery09/895e0edf.png?v=e0827b7e">
-  <img src="https://decohoard.carrd.co/assets/images/gallery09/895e0edf.png?v=e0827b7e">
-  <img src="https://decohoard.carrd.co/assets/images/gallery09/895e0edf.png?v=e0827b7e">
-  <img src="https://decohoard.carrd.co/assets/images/gallery09/895e0edf.png?v=e0827b7e">
+
 </div>
