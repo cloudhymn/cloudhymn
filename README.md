@@ -79,12 +79,4 @@
   height="200"
   behavior="alternate"
   class="outlined">
-  <marquee behavior="alternate">This text will bounce</marquee>
-</marquee>
 
-
-<style>
-.outlined {
-  border: solid;
-}
-</style>
