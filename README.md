@@ -70,3 +70,21 @@
   <img src="https://file.garden/aonlGPuitQnMaHeb/ezgif.com-add-image%20(12).gif">
   <img src="https://file.garden/aonlGPuitQnMaHeb/ezgif.com-add-image%20(13).gif">
 </div>
+<!DOCTYPE html>
+<html>
+<head>
+<marquee
+  direction="down"
+  width="250"
+  height="200"
+  behavior="alternate"
+  class="outlined">
+  <marquee behavior="alternate">This text will bounce</marquee>
+</marquee>
+
+
+<style>
+.outlined {
+  border: solid;
+}
+</style>
