@@ -70,38 +70,49 @@
   <img src="https://file.garden/aonlGPuitQnMaHeb/ezgif.com-add-image%20(12).gif">
   <img src="https://file.garden/aonlGPuitQnMaHeb/ezgif.com-add-image%20(13).gif">
 </div>
+
+![Bouncing Text](./bouncing-text.svg)
 <svg xmlns="http://www.w3.org/2000/svg" width="250" height="200" viewBox="0 0 250 200">
   <style>
     .box {
       fill: none;
-      stroke: currentColor;
+      stroke: #30363d;
       stroke-width: 2;
     }
-    .bouncing-text {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    .text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
       font-weight: bold;
       font-size: 20px;
-      fill: currentColor;
-      animation: bounceX 2.5s ease-in-out infinite alternate, bounceY 1.8s ease-in-out infinite alternate;
+      fill: #0969da;
     }
 
+    /* Bounce animation for X and Y axes */
     @keyframes bounceX {
-      0%   { transform: translateX(20px); }
-      100% { transform: translateX(180px); }
+      0%   { transform: translateX(30px); }
+      100% { transform: translateX(220px); }
     }
 
     @keyframes bounceY {
       0%   { transform: translateY(30px); }
       100% { transform: translateY(180px); }
     }
+
+    .animated-text {
+      animation: bounceX 2s ease-in-out infinite alternate, bounceY 1.4s ease-in-out infinite alternate;
+    }
+
+    /* GitHub Dark Mode Support */
+    @media (prefers-color-scheme: dark) {
+      .box { stroke: #8b949e; }
+      .text { fill: #58a6ff; }
+    }
   </style>
 
-  <!-- Outlined Box -->
-  <rect class="box" x="1" y="1" width="248" height="198" />
+  <!-- Border Box -->
+  <rect class="box" x="1" y="1" width="248" height="198" rx="4" />
 
-  <!-- Bouncing Text -->
-  <g class="bouncing-text">
-    <text x="0" y="0" text-anchor="middle" dominant-baseline="middle">lol!</text>
+  <!-- Bouncing "lol!" -->
+  <g class="animated-text">
+    <text class="text" x="0" y="0" text-anchor="middle" dominant-baseline="middle">lol!</text>
   </g>
 </svg>
-
