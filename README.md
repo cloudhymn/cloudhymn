@@ -70,13 +70,38 @@
   <img src="https://file.garden/aonlGPuitQnMaHeb/ezgif.com-add-image%20(12).gif">
   <img src="https://file.garden/aonlGPuitQnMaHeb/ezgif.com-add-image%20(13).gif">
 </div>
-<!DOCTYPE html>
-<html>
-<head>
-<marquee
-  direction="down"
-  width="250"
-  height="200"
-  behavior="alternate"
-  class="outlined">
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="200" viewBox="0 0 250 200">
+  <style>
+    .box {
+      fill: none;
+      stroke: currentColor;
+      stroke-width: 2;
+    }
+    .bouncing-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-weight: bold;
+      font-size: 20px;
+      fill: currentColor;
+      animation: bounceX 2.5s ease-in-out infinite alternate, bounceY 1.8s ease-in-out infinite alternate;
+    }
+
+    @keyframes bounceX {
+      0%   { transform: translateX(20px); }
+      100% { transform: translateX(180px); }
+    }
+
+    @keyframes bounceY {
+      0%   { transform: translateY(30px); }
+      100% { transform: translateY(180px); }
+    }
+  </style>
+
+  <!-- Outlined Box -->
+  <rect class="box" x="1" y="1" width="248" height="198" />
+
+  <!-- Bouncing Text -->
+  <g class="bouncing-text">
+    <text x="0" y="0" text-anchor="middle" dominant-baseline="middle">lol!</text>
+  </g>
+</svg>
 
