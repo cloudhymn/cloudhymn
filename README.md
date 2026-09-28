@@ -1,13 +1,23 @@
 <p align="center">
   <font color="#9ec5fe"><img src="https://komarev.com/ghpvc/?username=cloudhymn&style=plastic&color=9ec5fe&label=praise-the-sun" alt="Profile Views">
 </p>
-<img width="1920"  alt="Untitled13_20260903152051" src="https://github.com/user-attachments/assets/cdbe7f9e-cd93-4cb6-b78f-a44c148f698b" />
-<p align="center"><img width="720" alt="transparent" src="https://github.com/user-attachments/assets/39e556e3-67ca-4adc-96c6-3fa0cee7d196" />
+<center><img width="1587" height="2245" alt="dsdssgtdts" src="https://github.com/user-attachments/assets/5d35c231-53a4-443f-bb41-7059b3bad49e" /></center>
+ <p align="center">
+<img width="500" alt="tumblr_8b0e7cbec107ea178d646b226171a44a_e77f4720_1280" src="https://github.com/user-attachments/assets/74b828c1-ef4d-4721-b70c-7edee887945c" />
+ </p>
+<br>
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lqgiddaw2hepxph02dmcmzbc7&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=9ed0ff&bar_color_cover=true&mode=dark">
-  </a>
+════════════════════════════════════════ <br>
+ <br>
+  ‿̩͙‿੭　dₐᵢₙ ₒᵣ ₙₐᵥᵢ ˖⠀𓇬⠀˖ ₕₑ / ₕᵢₘ ˖⠀𓇬⠀˖ ₐₛₑₐₙ⠀ৎ‿̩͙‿ <br>
+ <br>
+════════════════════════════════════════
 </p>
+<p align="center">
+<img width="500" alt="tumblr_8b0e7cbec107ea178d646b226171a44a_e77f4720_1280" src="https://github.com/user-attachments/assets/74b828c1-ef4d-4721-b70c-7edee887945c" />
+ </p>
+
+
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; overflow-x: auto;">
   <img src="https://supplies.ju.mp/assets/images/gallery02/1585653f.gif?v=2e2c9a9d">
