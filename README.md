@@ -17,8 +17,6 @@
 <img width="500" alt="tumblr_8b0e7cbec107ea178d646b226171a44a_e77f4720_1280" src="https://github.com/user-attachments/assets/74b828c1-ef4d-4721-b70c-7edee887945c" />
  </p>
 
-
-
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; overflow-x: auto;">
   <img src="https://supplies.ju.mp/assets/images/gallery02/1585653f.gif?v=2e2c9a9d">
   <img src="https://supplies.ju.mp/assets/images/gallery02/32b6bc65.gif?v=2e2c9a9d">
