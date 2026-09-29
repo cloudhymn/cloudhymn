@@ -1,8 +1,7 @@
 
 <p align="center">
     <font color="#9ec5fe"><img src="https://komarev.com/ghpvc/?username=cloudhymn&style=plastic&color=9ec5fe&label=praise-the-sun" alt="Profile Views"><br>
-  <img width="451" alt="text" src="https://github.com/user-attachments/assets/2a156e7a-59e8-4a21-ae5f-fcff9bbe46fc" /><br>
-</p>
+  <img width="1123" alt="text (1)" src="https://github.com/user-attachments/assets/f3b8b096-9e3b-457f-9bfa-3e2b21d973e2" /><br>
 <center><img width="1190" height="1684" alt="dsdssgtdts" src="https://github.com/user-attachments/assets/5d35c231-53a4-443f-bb41-7059b3bad49e" /></center>
  <p align="center">
 <img width="3000" alt="tumblr_191e89552a6cf7f082fddc2024c83ab9_6ebe9451_2048" src="https://github.com/user-attachments/assets/7f2e29b9-7704-4a81-827b-8f636d2e255e" />
