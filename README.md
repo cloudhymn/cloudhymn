@@ -2,7 +2,7 @@
 <p align="center">
     <font color="#9ec5fe"><img src="https://komarev.com/ghpvc/?username=cloudhymn&style=plastic&color=9ec5fe&label=praise-the-sun" alt="Profile Views"><br>
   <img width="1123" alt="text (1)" src="https://github.com/user-attachments/assets/f3b8b096-9e3b-457f-9bfa-3e2b21d973e2" /><br>
-<img width="945" alt="tumblr_281b34829cae87c6b00ea2d643845060_c208e49b_1280" src="https://github.com/user-attachments/assets/763d7c21-f55b-4f03-981d-4a2ec8df80d1" />
+<img width="1587" height="2245" alt="jij" src="https://github.com/user-attachments/assets/0db72870-8f77-4b15-bdce-f545117ae870" />
 
 <center><img width="900" alt="dsdssgtdts" src="https://github.com/user-attachments/assets/5d35c231-53a4-443f-bb41-7059b3bad49e" /></center>
  <p align="center">
