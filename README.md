@@ -5,7 +5,7 @@
 </p>
 <center><img width="1190" height="1684" alt="sunrbusyt" src="https://github.com/user-attachments/assets/74640470-7638-41d5-8e39-db737979450a" /></center>
  <p align="center">
-<img width="2048" height="171" alt="tumblr_065016cfc48f0fcdb6cb10d912c88e19_e99b4961_2048" src="https://github.com/user-attachments/assets/619f8f41-4d71-4c6c-8de9-195952c67c7a" />
+<img width="2048" alt="tumblr_065016cfc48f0fcdb6cb10d912c88e19_e99b4961_2048" src="https://github.com/user-attachments/assets/619f8f41-4d71-4c6c-8de9-195952c67c7a" />
  </p>
 <br>
 <p align="center">
@@ -17,7 +17,7 @@
 ════════════════════════════════════════
 </p>
 <p align="center">
-<img width="2048" height="171" alt="tumblr_065016cfc48f0fcdb6cb10d912c88e19_e99b4961_2048" src="https://github.com/user-attachments/assets/619f8f41-4d71-4c6c-8de9-195952c67c7a" />
+<img width="2048" alt="tumblr_065016cfc48f0fcdb6cb10d912c88e19_e99b4961_2048" src="https://github.com/user-attachments/assets/619f8f41-4d71-4c6c-8de9-195952c67c7a" />
  </p>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; overflow-x: auto;">
