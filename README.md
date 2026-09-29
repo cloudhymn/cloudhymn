@@ -1,10 +1,11 @@
 
+
 <p align="center">
   <font color="#9ec5fe"><img src="https://komarev.com/ghpvc/?username=cloudhymn&style=plastic&color=9ec5fe&label=praise-the-sun" alt="Profile Views">
 </p>
 <center><img width="1190" height="1684" alt="sunrbusyt" src="https://github.com/user-attachments/assets/74640470-7638-41d5-8e39-db737979450a" /></center>
  <p align="center">
-<img width="500" alt="tumblr_8b0e7cbec107ea178d646b226171a44a_e77f4720_1280" src="https://github.com/user-attachments/assets/74b828c1-ef4d-4721-b70c-7edee887945c" />
+<img width="768" height="768" alt="97d7cbdf03dcac22cdb9a8a02d6ebbb3" src="https://github.com/user-attachments/assets/8dbb095d-68ef-4242-96ac-bf3adf162a9d" />
  </p>
 <br>
 <p align="center">
@@ -16,7 +17,7 @@
 ════════════════════════════════════════
 </p>
 <p align="center">
-<img width="500" alt="tumblr_8b0e7cbec107ea178d646b226171a44a_e77f4720_1280" src="https://github.com/user-attachments/assets/74b828c1-ef4d-4721-b70c-7edee887945c" />
+<img width="768" height="768" alt="97d7cbdf03dcac22cdb9a8a02d6ebbb3" src="https://github.com/user-attachments/assets/8dbb095d-68ef-4242-96ac-bf3adf162a9d" />
  </p>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; overflow-x: auto;">
