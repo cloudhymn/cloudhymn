@@ -4,7 +4,7 @@
   <img width="1123" alt="text (1)" src="https://github.com/user-attachments/assets/f3b8b096-9e3b-457f-9bfa-3e2b21d973e2" /><br>
 <img width="945" alt="tumblr_281b34829cae87c6b00ea2d643845060_c208e49b_1280" src="https://github.com/user-attachments/assets/763d7c21-f55b-4f03-981d-4a2ec8df80d1" />
 
-<center><img width="1190" height="1684" alt="dsdssgtdts" src="https://github.com/user-attachments/assets/5d35c231-53a4-443f-bb41-7059b3bad49e" /></center>
+<center><img width="1123" height="1684" alt="dsdssgtdts" src="https://github.com/user-attachments/assets/5d35c231-53a4-443f-bb41-7059b3bad49e" /></center>
  <p align="center">
 <img width="3000" alt="tumblr_191e89552a6cf7f082fddc2024c83ab9_6ebe9451_2048" src="https://github.com/user-attachments/assets/7f2e29b9-7704-4a81-827b-8f636d2e255e" />
  </p>
