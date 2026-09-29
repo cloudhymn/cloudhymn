@@ -64,7 +64,7 @@
   <img src="https://decohoard.carrd.co/assets/images/gallery91/0d8aa447.png?v=e0827b7e">
   <img src="https://decohoard.carrd.co/assets/images/gallery91/12477394.png?v=e0827b7e">
 </div><br>
-
+<p align="center">
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; overflow-x: auto;">
   <img src="https://file.garden/aonlGPuitQnMaHeb/ezgif.com-add-image.gif">
   <img src="https://file.garden/aonlGPuitQnMaHeb/ezgif.com-add-image%20(1).gif">
@@ -83,3 +83,4 @@
   <img src="https://file.garden/aonlGPuitQnMaHeb/ezgif.com-add-image%20(12).gif">
   <img src="https://file.garden/aonlGPuitQnMaHeb/ezgif.com-add-image%20(13).gif">
 </div>
+</p>
