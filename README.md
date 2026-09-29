@@ -3,7 +3,7 @@
     <font color="#9ec5fe"><img src="https://komarev.com/ghpvc/?username=cloudhymn&style=plastic&color=9ec5fe&label=praise-the-sun" alt="Profile Views"><br>
   <img width="451" alt="text" src="https://github.com/user-attachments/assets/2a156e7a-59e8-4a21-ae5f-fcff9bbe46fc" /><br>
 </p>
-<center><img width="1190" height="1684" alt="sunrbusyt" src="https://github.com/user-attachments/assets/74640470-7638-41d5-8e39-db737979450a" /></center>
+<center><img width="1190" height="1684" alt="dsdssgtdts" src="https://github.com/user-attachments/assets/5d35c231-53a4-443f-bb41-7059b3bad49e" /></center>
  <p align="center">
 <img width="2048" alt="tumblr_065016cfc48f0fcdb6cb10d912c88e19_e99b4961_2048" src="https://github.com/user-attachments/assets/619f8f41-4d71-4c6c-8de9-195952c67c7a" />
  </p>
