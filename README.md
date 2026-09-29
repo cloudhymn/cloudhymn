@@ -5,7 +5,7 @@
 </p>
 <center><img width="1190" height="1684" alt="dsdssgtdts" src="https://github.com/user-attachments/assets/5d35c231-53a4-443f-bb41-7059b3bad49e" /></center>
  <p align="center">
-<img width="2048" alt="tumblr_065016cfc48f0fcdb6cb10d912c88e19_e99b4961_2048" src="https://github.com/user-attachments/assets/619f8f41-4d71-4c6c-8de9-195952c67c7a" />
+<img width="3000" alt="tumblr_191e89552a6cf7f082fddc2024c83ab9_6ebe9451_2048" src="https://github.com/user-attachments/assets/7f2e29b9-7704-4a81-827b-8f636d2e255e" />
  </p>
 <br>
 <p align="center">
@@ -17,7 +17,7 @@
 ════════════════════════════════════════
 </p>
 <p align="center">
-<img width="2048" alt="tumblr_065016cfc48f0fcdb6cb10d912c88e19_e99b4961_2048" src="https://github.com/user-attachments/assets/619f8f41-4d71-4c6c-8de9-195952c67c7a" />
+<img width="3000" alt="tumblr_191e89552a6cf7f082fddc2024c83ab9_6ebe9451_2048" src="https://github.com/user-attachments/assets/7f2e29b9-7704-4a81-827b-8f636d2e255e" />
  </p>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; overflow-x: auto;">
