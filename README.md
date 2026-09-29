@@ -1,6 +1,6 @@
 
-
 <p align="center">
+  <img width="451" height="56" alt="text" src="https://github.com/user-attachments/assets/2a156e7a-59e8-4a21-ae5f-fcff9bbe46fc" />
   <font color="#9ec5fe"><img src="https://komarev.com/ghpvc/?username=cloudhymn&style=plastic&color=9ec5fe&label=praise-the-sun" alt="Profile Views">
 </p>
 <center><img width="1190" height="1684" alt="sunrbusyt" src="https://github.com/user-attachments/assets/74640470-7638-41d5-8e39-db737979450a" /></center>
